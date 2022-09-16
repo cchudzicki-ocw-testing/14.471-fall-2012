@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the four problem sets assigned for the course,
+  along with solutions and accompanying files, and the referee report assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

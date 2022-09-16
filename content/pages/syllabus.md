@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  requirements and grading, public finance field requirements, and the public finance
+  seminar and luncheon.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
